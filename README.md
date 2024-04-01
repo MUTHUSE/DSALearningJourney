@@ -8,4 +8,4 @@ Repository dedicated to my #DSALearning journey
 
 | Day/Week :pushpin: | Date :calendar: | Lessons/Tasks Done :alarm_clock: |
 |------|-----------------|--------------------|
-| 1st Week | May 30, 2020 | Learnt Kotlin Basics |
+| 1st Week | 27th - 31st Mar 2024 | Learnt C++ Basics and STL |
