@@ -5,6 +5,6 @@ Repository dedicated to my #DSALearning journey
 
 ## Timeline
 
-|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
+|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Tasks Done :alarm_clock:**|
 |------|-----------------|--------------------|---------------------|
-|Day 1|May 30, 2020| Learnt Kotlin Basics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
+|Day 1|May 30, 2020| Learnt Kotlin Basics |
