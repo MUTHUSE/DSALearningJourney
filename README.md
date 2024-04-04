@@ -12,3 +12,4 @@ Repository dedicated to my #DSALearning journey
 | Day 6 | 1 Apr 2024 | I am not do coding |
 | Day 7 | 2 Apr 2024 | I am not do coding |
 | Day 8 | 3 Apr 2024 | Basic math problems, recursion intro and recursion practice problems |
+| Day 9 | 4 Apr 2024 | Recursion practice problems and multiple recursion |
