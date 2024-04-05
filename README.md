@@ -6,7 +6,7 @@ Repository dedicated to my #DSALearning journey
 
 ## Timeline
 
-| Day/Week :pushpin: | Date :calendar: | Lessons/Tasks Done :alarm_clock: |
+| Day/Week :pushpin: | Date :calendar: | Lessons Done :alarm_clock: |
 |------|-----------------|--------------------|
 | Day 1 to 5 | 27th - 31st Mar 2024 | Learnt C++ Basics, Pattern and STL |
 | Day 6 | 1 Apr 2024 | *No-Code Day* |
