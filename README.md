@@ -14,3 +14,5 @@ Repository dedicated to my #DSALearning journey
 | Day 8 | 3 Apr 2024 | Basic math problems, recursion intro and recursion practice problems |
 | Day 9 | 4 Apr 2024 | Recursion practice problems and multiple recursion |
 | Day 10 | 5 Apr 2024 | Hashing theory and its problems |
+| Day 11 | 6 Apr 2024 | Solve Selection, Bubble and Insertion Sort |
+| Day 12 | 7 Apr 2024 | Solve Merge Sort |
