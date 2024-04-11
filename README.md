@@ -16,4 +16,6 @@ Repository dedicated to my #DSALearning journey
 | Day 10 | 5 Apr 2024 | Hashing theory and its problems |
 | Day 11 | 6 Apr 2024 | Solve Selection, Bubble and Insertion Sort |
 | Day 12 | 7 Apr 2024 | Solve Merge Sort |
-| Day 12 | 7 Apr 2024 | Solve array ascending and decending order using Quick Sort |
+| Day 13 | 8 Apr 2024 | Solve array ascending and decending order using Quick Sort |
+| Day 14 | 9 Apr 2024 | Solve Bubble sort and Insertion Sort using Recursion |
+| Day 15 | 10 Apr 2024 | Solve Basic problem of an array ( get largest element, get second largest element, check the array is sorted or not, remove duplicate from an sorted array) |
