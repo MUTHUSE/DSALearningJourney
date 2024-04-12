@@ -20,3 +20,4 @@ Repository dedicated to my #DSALearning journey
 | Day 14 | 9 Apr 2024 | Solve Bubble sort and Insertion Sort using Recursion |
 | Day 15 | 10 Apr 2024 | Solve Basic problem of an array ( get largest element, get second largest element, check the array is sorted or not, remove duplicate from an sorted array) |
 | Day 16 | 11 Apr 2024 | Solve Basic problem of an array ( Left rotate the array by one and left rotate the array by D places) |
+| Day 17 | 12 Apr 2024 | Solve Basic problem of an array ( right rotate the array by D places) |
