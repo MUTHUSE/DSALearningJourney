@@ -18,6 +18,7 @@ Repository dedicated to my #DSALearning journey
 | Day 12 | 7 Apr 2024 | Solve Merge Sort |
 | Day 13 | 8 Apr 2024 | Solve array ascending and decending order using Quick Sort |
 | Day 14 | 9 Apr 2024 | Solve Bubble sort and Insertion Sort using Recursion |
-| Day 15 | 10 Apr 2024 | Solve Basic problem of an array ( get largest element, get second largest element, check the array is sorted or not, remove duplicate from an sorted array) |
-| Day 16 | 11 Apr 2024 | Solve Basic problem of an array ( Left rotate the array by one and left rotate the array by D places) |
-| Day 17 | 12 Apr 2024 | Solve Basic problem of an array ( right rotate the array by D places) |
+| Day 15 | 10 Apr 2024 | Solve Basic problem of an array ( get largest element, get second largest element, check the array is sorted or not, remove duplicate from an sorted array ) |
+| Day 16 | 11 Apr 2024 | Solve Basic problem of an array ( Left rotate the array by one and left rotate the array by D places ) |
+| Day 17 | 12 Apr 2024 | Solve Basic problem of an array ( right rotate the array by D places ) |
+| Day 18 | 13 Apr 2024 | Solve Basic problem of an array ( move all 0 at the end, linear search ) |
