@@ -1,4 +1,4 @@
-# DSALearning
+# DSA Learning Journey
 
 Repository dedicated to my #DSALearning journey
 
