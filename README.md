@@ -22,3 +22,5 @@ Repository dedicated to my #DSALearning journey
 | Day 16 | 11 Apr 2024 | Solve Basic problem of an array ( Left rotate the array by one and left rotate the array by D places ) |
 | Day 17 | 12 Apr 2024 | Solve Basic problem of an array ( right rotate the array by D places ) |
 | Day 18 | 13 Apr 2024 | Solve Basic problem of an array ( move all 0 at the end, linear search ) |
+| Day 19 | 14 Apr 2024 | *No-Code Day* |
+| Day 20 | 15 Apr 2024 | *No-Code Day* |
