@@ -24,3 +24,10 @@ Repository dedicated to my #DSALearning journey
 | Day 18 | 13 Apr 2024 | Solve Basic problem of an array ( move all 0 at the end, linear search ) |
 | Day 19 | 14 Apr 2024 | *No-Code Day* |
 | Day 20 | 15 Apr 2024 | *No-Code Day* |
+| Day 21 | 16 Apr 2024 | Solve Basic problem of an array ( linear search ) |
+| Day 22 | 17 Apr 2024 | Solve Basic problem of an array ( Find the union of two arrays ) |
+| Day 23 | 18 Apr 2024 | Solve Basic problem of an array ( Find the intersection of two sorted arrays ) |
+| Day 24 | 19 Apr 2024 | Solve Basic problem of an array ( Find the intersection of two sorted arrays ) |
+| Day 25 | 20 Apr 2024 | Solve Basic problem of an array ( Find the missing number ) |
+| Day 26 | 21 Apr 2024 | *No-Code Day* |
+| Day 27 | 22 Apr 2024 | Solve Basic problem of an array ( Maximum consecutive ones , Find the number that appears once and other appears twice ) |
