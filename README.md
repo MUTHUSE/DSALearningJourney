@@ -31,3 +31,13 @@ Repository dedicated to my #DSALearning journey
 | Day 25 | 20 Apr 2024 | Solve Basic problem of an array ( Find the missing number ) |
 | Day 26 | 21 Apr 2024 | *No-Code Day* |
 | Day 27 | 22 Apr 2024 | Solve Basic problem of an array ( Maximum consecutive ones , Find the number that appears once and other appears twice ) |
+| Day 28 | 23 Apr 2024 | *No-Code Day* |
+| Day 29 | 24 Apr 2024 | *No-Code Day* |
+| Day 30 | 25 Apr 2024 | *No-Code Day* |
+| Day 31 | 26 Apr 2024 | *No-Code Day* |
+| Day 32 | 27 Apr 2024 | *No-Code Day* |
+| Day 33 | 28 Apr 2024 | *No-Code Day* |
+| Day 34 | 29 Apr 2024 | *No-Code Day* |
+| Day 35 | 30 Apr 2024 | *No-Code Day* |
+| Day 36 | 1 May 2024 | *No-Code Day* |
+| Day 37 | 2 May 2024 | *No-Code Day* |
