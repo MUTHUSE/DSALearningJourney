@@ -8,8 +8,7 @@ Repository dedicated to my #DSALearning journey
 
 | Day/Week :pushpin: | Date :calendar: | Lessons Done :alarm_clock: |
 |------|-----------------|--------------------|
-| Day 1 to 5 | 27th - 31st Mar 2024 | Learnt C++ Basics, Pattern and STL |
-| Day 6 | 1 Apr 2024 | *No-Code Day* |
+| Day 1 | 1 Apr 2024 | *No-Code Day* |
 | Day 7 | 2 Apr 2024 | *No-Code Day* |
 | Day 8 | 3 Apr 2024 | Basic math problems, recursion intro and recursion practice problems |
 | Day 9 | 4 Apr 2024 | Recursion practice problems and multiple recursion |
@@ -41,3 +40,5 @@ Repository dedicated to my #DSALearning journey
 | Day 35 | 30 Apr 2024 | *No-Code Day* |
 | Day 36 | 1 May 2024 | *No-Code Day* |
 | Day 37 | 2 May 2024 | *No-Code Day* |
+
+| Day 1 | 8 May 2024 | STL ( Functions, Pair, Vector, List, Dequeue, Stack ) |
