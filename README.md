@@ -40,5 +40,4 @@ Repository dedicated to my #DSALearning journey
 | Day 35 | 30 Apr 2024 | *No-Code Day* |
 | Day 36 | 1 May 2024 | *No-Code Day* |
 | Day 37 | 2 May 2024 | *No-Code Day* |
-
 | Day 1 | 8 May 2024 | STL ( Functions, Pair, Vector, List, Dequeue, Stack ) |
