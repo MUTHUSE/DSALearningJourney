@@ -20,4 +20,5 @@ Repository dedicated to my #DSALearning journey
 | Day 10 | 27 Jun 2024 | Sorting Algorithm ( Insertion Sort ), Looping problem solving |
 | Day 11 | 28 Jun 2024 | Sorting Algorithm ( Merge Sort ), Pattern Practice |
 | Day 12 | 29 Jun 2024 | Pattern Practice |
-| Day 13 | 30 Jun 2024 | **No code** |
+| Day 13 | 30 Jun 2024 | *No code day* |
+| Day 14 | 1 Jul 2024 | Pattern Practice |
