@@ -11,3 +11,4 @@ Repository dedicated to my #DSALearning journey
 | Day 1 | 07 August 2024 | Pattern |
 | Day 2 | 08 August 2024 | Pattern |
 | Day 3 | 09 August 2024 | Pattern |
+| Day 4 | 10 August 2024 | Pattern |
