@@ -28,3 +28,5 @@ Repository dedicated to my #DSALearning journey
 | Day 18 | 24 August 2024 | *No Code Day* |
 | Day 19 | 25 August 2024 | *No Code Day* |
 | Day 20 | 26 August 2024 | *No Code Day* |
+| Day 21 | 27 August 2024 | Pattern |
+| Day 22 | 28 August 2024 | *No Code Day* |
