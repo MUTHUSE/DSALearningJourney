@@ -35,3 +35,5 @@ Repository dedicated to my #DSALearning journey
 | Day 25 | 31 August 2024 | *No Code Day* |
 | Day 26 | 1 September 2024 | *No Code Day* |
 | Day 27 | 2 September 2024 | Array |
+| Day 28 | 3 September 2024 | *No Code Day* |
+| Day 29 | 4 September 2024 | Array |
